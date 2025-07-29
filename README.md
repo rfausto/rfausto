@@ -3,7 +3,6 @@
 Repositório principal com foco em automação de testes e qualidade de software. Aqui você encontra os projetos que desenvolvi utilizando diferentes stacks e abordagens.
 
 ## 🚀 Tecnologias que utilizo
-- Java + Selenium WebDriver
 - Java + RestAssured
 - Cypress
 - K6 (performance)
@@ -11,9 +10,8 @@ Repositório principal com foco em automação de testes e qualidade de software
 ## 📁 Projetos Individuais
 Cada projeto está organizado em seu próprio repositório:
 
-- [Testes de interface com Java + Selenium](https://github.com/rfausto/java-selenium)
 - [Testes de API com RestAssured](https://github.com/rfausto/restassured-api-tests)
-- [Testes end-to-end com Cypress](https://github.com/rfausto/cypress-e2e-tests)
+- [Testes end-to-end com Cypress](https://github.com/rfausto/cypress-web-tests)
 - [Testes de performance com K6](https://github.com/rfausto/k6-performance-tests)
 
 

@@ -12,7 +12,7 @@ Cada projeto está organizado em seu próprio repositório:
 
 - [Testes de API com RestAssured](https://github.com/rfausto/restassured-api-tests)
 - [Testes end-to-end com Cypress](https://github.com/rfausto/cypress-web-tests)
-- [Testes de performance com K6](https://github.com/rfausto/k6-performance-tests)
+- [Testes de performance com K6](https://github.com/rfausto/k6-placeholder)
 
 
 ## 🎯 Sobre mim
